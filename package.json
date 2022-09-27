@@ -1,0 +1,18 @@
+{
+  "name": "pratofavorito",
+  "version": "1.0.0",
+  "description": "projeto de pw4",
+  "main": "rotas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "i18n": "^0.15.1",
+    "mysql2": "^2.3.3",
+    "node-fetch": "^2.6.7",
+    "sequelize": "^6.23.1"
+  }
+}
